@@ -1,10 +1,13 @@
 {
-	"name": "product-icon-theme-sample",
+	"name": "ms-paint-icons",
 	"version": "0.1.0",
-	"publisher": "vscode-samples",
+	"publisher": "justin",
 	"engines": {
 		"vscode": "*"
 	},
+	"repository": {
+		"type": "git",
+		"url": "github.com/microsoft/justschen/vscode-product-icon-theme-sample"},
 	"contributes": {
 		"productIconThemes": [
 			{

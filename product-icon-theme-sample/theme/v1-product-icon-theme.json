@@ -13,33 +13,104 @@
 		}
 	],
 	"iconDefinitions": {
-		"explorer-view-icon": {
-			"fontCharacter": "\\e000"
+		"copilot-logo": {
+			"fontCharacter": "\\e00e"
 		},
-		"search-view-icon": {
-			"fontCharacter": "\\e001"
+		"copilot-chat": {
+			"fontCharacter": "\\e00e"
 		},
-		"run-view-icon": {
-			"fontCharacter": "\\e002"
+		"copilot-blocked": {
+			"fontCharacter": "\\e00e"
 		},
-		"extensions-view-icon": {
-			"fontCharacter": "\\e004"
+		"copilot-warning": {
+			"fontCharacter": "\\e00e"
+		},
+		"copilot": {
+			"fontCharacter": "\\e00e"
+		},
+		"codicon-copilot": {
+			"fontCharacter": "\\e00e"
+		},
+		"comment-discussion": {
+			"fontCharacter": "\\e012"
 		},
 		"source-control-view-icon": {
-			"fontCharacter": "\\e003"
+			"fontCharacter": "\\e00f"
 		},
-		"tree-item-expanded": {
-			"fontCharacter": "\\e008"
+		"explorer-view-icon": {
+			"fontCharacter": "\\e00d"
 		},
-		"folding-expanded": {
-			"fontCharacter": "\\e006"
+		"debug-alt": {
+			"fontCharacter": "\\e010"
 		},
-		"folding-collapsed": {
-			"fontCharacter": "\\e007"
+		"gitlens-gitlens": {
+			"fontCharacter": "\\e015"
 		},
-		"feedback": {
-			"fontCharacter": "\\e005"
+		"github": {
+			"fontCharacter": "\\e016"
 		},
-
+		"remote-explorer": {
+			"fontCharacter": "\\e014"
+		},
+		"search": {
+			"fontCharacter": "\\e00c"
+		},
+		"extensions": {
+			"fontCharacter": "\\e011"
+		},
+		"test-view-icon": {
+			"fontCharacter": "\\e013"
+		},
+		"accounts-view-bar-icon":{
+			"fontCharacter": "\\e017"
+		},
+		"settings-view-bar-icon": {
+			"fontCharacter": "\\e018"
+		},
+		"account": {
+			"fontCharacter": "\\e017"
+		},
+		"settings": {
+			"fontCharacter": "\\e018"
+		},
+		"codicon-attach": {
+			"fontCharacter": "\\e01b"
+		},
+		"attach": {
+			"fontCharacter": "\\e01b"
+		},
+		"mic": {
+			"fontCharacter": "\\e01d"
+		},
+		"codicon-mic":{
+			"fontCharacter": "\\e01d"
+		},
+		"send": {
+			"fontCharacter": "\\e01a"
+		},
+		"terminal": {
+			"fontCharacter": "\\e01c"
+		},
+		"plus": {
+			"fontCharacter": "\\e019"
+		},
+		"arrow-left": {
+			"fontCharacter": "\\e01e"
+		},
+		"arrow-right": {
+			"fontCharacter": "\\e01f"
+		},
+		"codicon-mention":{
+			"fontCharacter": "\\e021"
+		},
+		"mention": {
+			"fontCharacter": "\\e021"
+		},
+		"compare-changes": {
+			"fontCharacter": "\\e022"
+		},
+		"history": {
+			"fontCharacter": "\\e020"
+		}
 	}
 }
